@@ -3,7 +3,7 @@
 This is a RAG pipeline that consists in three principal components:
 - Data Embedding and Storage Component.
 - Data Embedding and Storage Component.
-- Querying the vectorized dataset to augment the input of a generative AI model to produce a response.
+- Augmented Input Generation Component.
 
 Components explanation:
 
